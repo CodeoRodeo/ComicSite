@@ -45,9 +45,9 @@ a.hideDisplay:hover span.showDisplayOnHover{
   color: #444;
   line-height: 18px;
  }
-
-
-
+#background {
+  width: 100%;
+}
 
 #CMYK {
   border-color: white;
@@ -128,3 +128,6 @@ ul li,a,img
 button {
   margin-left: 100px;
 }
+body{
+  background-repeat: no-repeat;
+  }
